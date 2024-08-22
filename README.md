@@ -1,2 +1,4 @@
 # Hughes-GEOG676
-Lab1/README.md
+git add *
+
+git commit -m 'Edited the main README.md'
